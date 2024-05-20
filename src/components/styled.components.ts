@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
+//LAS PROPIEDADES
 interface Props {
+  // LA ALTURA QUE LLEGARA A TRAVEZ DEL CLIENTE
   height?: number;
 }
 

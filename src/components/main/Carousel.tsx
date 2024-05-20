@@ -2,7 +2,7 @@ import { Container } from "../styled.components";
 
 const Carousel = () => {
   return <>
-    <Container>Contenedor</Container>
+    <Container height={50}>Contenedor</Container>
   </>;
 };
 
